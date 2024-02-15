@@ -1,0 +1,1 @@
+Script is used to clean device counters.

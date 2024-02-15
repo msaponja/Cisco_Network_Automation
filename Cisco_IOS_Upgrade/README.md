@@ -1,0 +1,1 @@
+Scripts checks IOS version on devices and makes the upgrade if necessary.
